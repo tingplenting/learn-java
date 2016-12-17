@@ -15,7 +15,7 @@ public class AskingQuestions
 
 		int age;
 		String height;
-		double weight;
+		double weight; // koma 1,1 buka 1.1
 
 		System.out.print("How old are you? ");
 		age = keyboard.nextInt();
